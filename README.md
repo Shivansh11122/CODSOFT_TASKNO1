@@ -112,15 +112,7 @@ No frameworks, packages, or additional installation are required.
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="images/portfolio-preview.png" alt="Portfolio Preview">
-</p>
-
-> 💡 To display your portfolio screenshot here, take a screenshot of your website and save it as:
->
-> `images/portfolio-preview.png`
-
----
+<img width="1891" height="745" alt="Screenshot 2026-08-15 143638" src="https://github.com/user-attachments/assets/4ffffac5-31b7-4575-9152-04ab50b6b74e" />
 
 ## 📄 Resume
 
