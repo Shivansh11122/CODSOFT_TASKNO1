@@ -138,7 +138,7 @@ You can also find the resume file in this repository:
 </p>
 
 <p align="center">
-  📧 <strong>Email:</strong> shivansh11@gmail.com
+  📧 <strong>Email:</strong> ranashivansh114@gmail.com
 </p>
 
 ---
